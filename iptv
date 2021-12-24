@@ -3,12 +3,18 @@
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbIxL-627H3ZuZGqdB3MHNrD9wRj4b-wSG6oGp33Txyss/ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="POLAND",Disney XD
 http://103.194.169.171:8282/PL:DISNEY_XD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="POLAND",4FUN Gold Hits
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="POLAND",4FUN Kids
 http://103.194.169.171:8282/PL:4FUN_GOLD_HITS/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="POLAND",4Fun Dance
 http://aslanvip.mneprox.com:8080/faruk08/faruk0808/6459?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PL" tvg-logo="https://i.imgur.com/ZjeDdb7.png" group-title="POLAND",4Fun.TV
 http://aslanvip.mneprox.com:8080/faruk08/faruk0808/6461?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="POLAND",FilmBox Action
+http://103.194.169.171:8282/PL:FILMBOX_ACTION/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="POLAND",FilmBox Family
+http://iptv.csserv.co:8000/live/clientr725/631739/4135.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="POLAND",FilmBox Premium
+http://iptvvi.com:80/Bektash/qNvXcDD98fPC/73691?checkedby:iptvcat.com
 
 #EXTINF:1 tvg-country="DE" tvg-logo="http://logodmtv.ddns.net/logo_plus/GERMANY/PROSIEBENHD.png" group-title="GERMANY",Prosieben
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/592
