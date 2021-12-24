@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="POLAND",Disney Channel FHD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbIxL-627H3ZuZGqdB3MHNrD9wRj4b-wSG6oGp33Txyss/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="POLAND",Disney XD
+http://103.194.169.171:8282/PL:DISNEY_XD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="POLAND",4FUN Gold Hits
+http://103.194.169.171:8282/PL:4FUN_GOLD_HITS/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="POLAND",4Fun Dance
+http://aslanvip.mneprox.com:8080/faruk08/faruk0808/6459?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="POLAND",4FUN.TV
+http://103.194.169.171:8282/PL:4_Fun_TV_S2/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
