@@ -10,3 +10,7 @@ http://aslanvip.mneprox.com:8080/faruk08/faruk0808/6459?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PL" tvg-logo="https://i.imgur.com/ZjeDdb7.png" group-title="POLAND",4Fun.TV
 http://aslanvip.mneprox.com:8080/faruk08/faruk0808/6461?checkedby:iptvcat.com
 
+#EXTINF:-1 tvg-ID="pro7.de" tvg-name="|DE| Prosieben HD" tvg-logo="http://logodmtv.ddns.net/logo_plus/GERMANY/PROSIEBENHD.png" group-title="GERMANY HD",|DE| Prosieben HD
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/592
+#EXTINF:-1 tvg-ID="pro7.de" tvg-name="|DE| ProSieben HEVC" tvg-logo="http://logodmtv.ddns.net/logo_plus/GERMANY/PROSIEBENHD.png" group-title="GERMANY HD",|DE| ProSieben HEVC
+http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/78442
