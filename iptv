@@ -9,3 +9,6 @@ http://103.194.169.171:8282/PL:4FUN_GOLD_HITS/mono.m3u8?token=93a611c10082e5eec5
 http://aslanvip.mneprox.com:8080/faruk08/faruk0808/6459?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="POLAND",4FUN.TV
 http://103.194.169.171:8282/PL:4_Fun_TV_S2/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="POLAND",4Fun.TV
+http://aslanvip.mneprox.com:8080/faruk08/faruk0808/6461?checkedby:iptvcat.com
+
