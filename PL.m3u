@@ -1,6 +1,3 @@
-#EXTM3U
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="POLAND",Disney Channel FHD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbIxL-627H3ZuZGqdB3MHNrD9wRj4b-wSG6oGp33Txyss/ts?checkedby:iptvcat.com
 
 #EXT-X-ALLOW-CACHE:YES
 #EXT-X-PLAYLIST-TYPE:VOD
@@ -111,7 +108,3 @@ http://iptvhdnew.com:8080/1805/1805/56487
 http://iptvhdnew.com:8080/1805/1805/56442
 #EXTINF:-1,PL: VOX MUS?C
 http://iptvhdnew.com:8080/1805/1805/56481
-
-
-
-
