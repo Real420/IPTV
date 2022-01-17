@@ -1,345 +1,112 @@
 #EXTM3U
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="POLAND",Disney Channel FHD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbIxL-627H3ZuZGqdB3MHNrD9wRj4b-wSG6oGp33Txyss/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="POLAND",Disney XD
-http://103.194.169.171:8282/PL:DISNEY_XD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="POLAND",4FUN Kids
-http://103.194.169.171:8282/PL:4FUN_GOLD_HITS/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="POLAND",4Fun Dance
-http://aslanvip.mneprox.com:8080/faruk08/faruk0808/6459?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PL" tvg-logo="https://i.imgur.com/ZjeDdb7.png" group-title="POLAND",4Fun.TV
-http://aslanvip.mneprox.com:8080/faruk08/faruk0808/6461?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="POLAND",FilmBox Action
-http://103.194.169.171:8282/PL:FILMBOX_ACTION/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="POLAND",FilmBox Family
-http://iptv.csserv.co:8000/live/clientr725/631739/4135.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="POLAND",FilmBox Premium
-http://iptvvi.com:80/Bektash/qNvXcDD98fPC/73691?checkedby:iptvcat.com
 
 
-#EXTINF:1,TVP HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71347.ts
-#EXTINF:1,TVP 1 HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71348.ts
-#EXTINF:1,TVP 2 HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71349.ts
-#EXTINF:1,TVP 3 HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71350.ts
-#EXTINF:1,TVP Seriale HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71351.ts
-#EXTINF:1,TVP Polonia HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71352.ts
-#EXTINF:1,TVN 7 HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71353.ts
-#EXTINF:1,TV6 HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71354.ts
-#EXTINF:1,TVN 24 HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71355.ts
-#EXTINF:1,FOX HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71356.ts
-#EXTINF:1,COMEDY CENTRAL HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71357.ts
-#EXTINF:1,CANAL  SERIALE HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71358.ts
-#EXTINF:1,Fox Comedy HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71359.ts
-#EXTINF:1,HBO HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71360.ts
-#EXTINF:1,Lifetime HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71361.ts
-#EXTINF:1,KUCHNIA HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71362.ts
-#EXTINF:1,NOWA TV HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71363.ts
-#EXTINF:1,Super Polsat HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71364.ts
-#EXTINF:1,TLC HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71365.ts
-#EXTINF:1,TNT HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71366.ts
-#EXTINF:1,TV Republika HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71367.ts
-#EXTINF:1,TVN Style HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71368.ts
-#EXTINF:1,TVN Fabula HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71369.ts
-#EXTINF:1,TVN Turbo HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71370.ts
-#EXTINF:1,TVP KULTURA HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71371.ts
-#EXTINF:1,TVP Rozrywka HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71372.ts
-#EXTINF:1,4Fun HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71373.ts
-#EXTINF:1,Adventure HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71374.ts
-#EXTINF:1,AMC HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71375.ts
-#EXTINF:1,ATM Rozrywka HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71376.ts
-#EXTINF:1,BBC Earth HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71377.ts
-#EXTINF:1,CBS Action HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71378.ts
-#EXTINF:1,CBS Europa HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71379.ts
-#EXTINF:1,CBS Reality HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71380.ts
-#EXTINF:1,Comedy Central Family HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71381.ts
-#EXTINF:1,DTX HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71382.ts
-#EXTINF:1,E! HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71383.ts
-#EXTINF:1,Epic Drama HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71384.ts
-#EXTINF:1,Eska TV Extra HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71385.ts
-#EXTINF:1,Eska TV HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71386.ts
-#EXTINF:1,Fightbox HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71387.ts
-#EXTINF:1,Filmbox HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71388.ts
-#EXTINF:1,Fokus TV HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71389.ts
-#EXTINF:1,Food Network HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71390.ts
-#EXTINF:1,Golf Channel HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71391.ts
-#EXTINF:1,METRO HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71392.ts
-#EXTINF:1,Nuta.TV HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71393.ts
-#EXTINF:1,Polsat Doku HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71394.ts
-#EXTINF:1,POLSAT JimJam HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71395.ts
-#EXTINF:1,Polsat Romans HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71396.ts
-#EXTINF:1,Polsatay HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71397.ts
-#EXTINF:1,CI Polsat HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71398.ts
-#EXTINF:1,Power TV HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71399.ts
-#EXTINF:1,Puls 2 HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71400.ts
-#EXTINF:1,Romance HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71401.ts
-#EXTINF:1,SciFi Universal HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71402.ts
-#EXTINF:1,Stars TV HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71403.ts
-#EXTINF:1,Sundance HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71404.ts
-#EXTINF:1,TO!TV HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71405.ts
-#EXTINF:1,Travel HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71406.ts
-#EXTINF:1,TTV HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71407.ts
-#EXTINF:1,TV Kujawy HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71408.ts
-#EXTINF:1,TV Torun HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71409.ts
-#EXTINF:1,TV Trwam HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71410.ts
-#EXTINF:1,TVN HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71411.ts
-#EXTINF:1,TVN24 BiS HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71412.ts
-#EXTINF:1,13 Ulica HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71413.ts
-#EXTINF:1,4 Fun Dance HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71414.ts
-#EXTINF:1,4 Fun Gold Hits HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71415.ts
-#EXTINF:1,BBC HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71416.ts
-#EXTINF:1,CANAL  FAMILY HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71417.ts
-#EXTINF:1,CANAL HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71418.ts
-#EXTINF:1,Da Vinci Learning HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71419.ts
-#EXTINF:1,Domo HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71420.ts
-#EXTINF:1,HGTV HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71421.ts
-#EXTINF:1,MiniMini HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71422.ts
-#EXTINF:1,Paramount Channel HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71423.ts
-#EXTINF:1,Polo TV HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71424.ts
-#EXTINF:1,Polsat 2 HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71425.ts
-#EXTINF:1,Polsat Cafe HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71426.ts
-#EXTINF:1,Polsat HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71427.ts
-#EXTINF:1,Polsat News HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71428.ts
-#EXTINF:1,Polsat Play HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71429.ts
-#EXTINF:1,TV Puls HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71430.ts
-#EXTINF:1,Stopklatka TV HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71431.ts
-#EXTINF:1,TELETOON HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71432.ts
-#EXTINF:1,Universal HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71433.ts
-#EXTINF:1,VIVA Polska HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71434.ts
-#EXTINF:1,Zoom TV HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71435.ts
-#EXTINF:1,CineMax 1 HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71436.ts
-#EXTINF:1,Cinemax 2 HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71437.ts
-#EXTINF:1,HBO 1 HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71438.ts
-#EXTINF:1,HBO 2 HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71439.ts
-#EXTINF:1,HBO 3 HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71440.ts
-#EXTINF:1,Polsat Film HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71441.ts
-#EXTINF:1,Kino Polska HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71442.ts
-#EXTINF:1,Kino Polska Muzyka HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71443.ts
-#EXTINF:1,AXN Black HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71444.ts
-#EXTINF:1,AXN White HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71445.ts
-#EXTINF:1,AXN HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71446.ts
-#EXTINF:1,AXN SPIN HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71447.ts
-#EXTINF:1,Kino TV HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71448.ts
-#EXTINF:1,Filmbox Extra HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71449.ts
-#EXTINF:1,Filmbox Action HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71450.ts
-#EXTINF:1,Filmbox Premium HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71451.ts
-#EXTINF:1,Filmbox Arthouse HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71452.ts
-#EXTINF:1,Filmbox Family HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71453.ts
-#EXTINF:1,Canal Film HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71454.ts
-#EXTINF:1,Ale Kino HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71455.ts
-#EXTINF:1,Discovery Channel HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71456.ts
-#EXTINF:1,Discovery Historia HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71457.ts
-#EXTINF:1,Discovery Science HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71458.ts
-#EXTINF:1,Polsat Doku HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71459.ts
-#EXTINF:1,Nat Geo Wild HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71460.ts
-#EXTINF:1,History HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71461.ts
-#EXTINF:1,Discovery Life HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71462.ts
-#EXTINF:1,CANAL  DISCOVERY HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71463.ts
-#EXTINF:1,ANIMAL PLANET HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71464.ts
-#EXTINF:1,Polsat Viasat History HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71465.ts
-#EXTINF:1,POLSAT Viasat Explore HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71466.ts
-#EXTINF:1,Polsat Viasat Nature HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71467.ts
-#EXTINF:1,Crime Investigation Polsat HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71468.ts
-#EXTINF:1,TVP HISTORIA HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71469.ts
-#EXTINF:1,Planete HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71470.ts
-#EXTINF:1,Investigation Discovery HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71471.ts
-#EXTINF:1,Nat Geo People HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71472.ts
-#EXTINF:1,Nat Geo HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71473.ts
-#EXTINF:1,Discovery Turbo Xtra HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71474.ts
-#EXTINF:1,H2 HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71475.ts
-#EXTINF:1,E! Entertainment HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71476.ts
-#EXTINF:1,ELEVEN SPORTS 1 HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71477.ts
-#EXTINF:1,ELEVEN SPORTS 2 HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71478.ts
-#EXTINF:1,Eleven Sports 3 HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71479.ts
-#EXTINF:1,Eleven Sports 4 HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71480.ts
-#EXTINF:1,nSport HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71483.ts
-#EXTINF:1,Polsat Play HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71484.ts
-#EXTINF:1,Polsat Sport News HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71485.ts
-#EXTINF:1,Polsat Sport Extra HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71486.ts
-#EXTINF:1,Polsat Sport HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71487.ts
-#EXTINF:1,Polsat Sport Fight HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71488.ts
-#EXTINF:1,Polsat Sport Premium 1 HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71489.ts
-#EXTINF:1,Fightbox HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71490.ts
-#EXTINF:1,Golf Channel HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71491.ts
-#EXTINF:1,Canal Sport HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71492.ts
-#EXTINF:1,Canal Sport 2 HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71493.ts
-#EXTINF:1,Extreme Sports HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71494.ts
-#EXTINF:1,Sport Klub HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71495.ts
-#EXTINF:1,TVP Sport HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71496.ts
-#EXTINF:1,BOOMERANG HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71497.ts
-#EXTINF:1,Nick JR. HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71498.ts
-#EXTINF:1,Nickelodeon HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71499.ts
-#EXTINF:1,Cartoon Network HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71500.ts
-#EXTINF:1,Disney Channel HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71501.ts
-#EXTINF:1,Disney Junior HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71502.ts
-#EXTINF:1,Disney XD HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71503.ts
-#EXTINF:1,TVP ABC HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71504.ts
-#EXTINF:1,MTV Polska HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71506.ts
-#EXTINF:1,MTV Live HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71507.ts
-#EXTINF:1,EskaRock HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71508.ts
-#EXTINF:1,Polsat Music HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71509.ts
-#EXTINF:1,VOX Music TV HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71510.ts
-#EXTINF:1,Disco Polo Music HD
-http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/71511.ts
 
-
+#EXTINF:0,PL: 13 ULICA
+http://iptvhdnew.com:8080/1805/1805/56484
+#EXTINF:0,PL: ANIMAL PLANET
+http://iptvhdnew.com:8080/1805/1805/56459
+#EXTINF:0,PL: AXN BLACK
+http://iptvhdnew.com:8080/1805/1805/56466
+#EXTINF:0,PL: AXN White
+http://iptvhdnew.com:8080/1805/1805/56462
+#EXTINF:0,PL: BOOMERANG
+http://iptvhdnew.com:8080/1805/1805/56463
+#EXTINF:0,PL: CINEMAX 2
+http://iptvhdnew.com:8080/1805/1805/56471
+#EXTINF:0,PL: COMEDY CENTRAL
+http://iptvhdnew.com:8080/1805/1805/56464
+#EXTINF:0,PL: Comedy Central Family HD
+http://iptvhdnew.com:8080/1805/1805/56468
+#EXTINF:0,PL: DISCOVERY CHANNEL
+http://iptvhdnew.com:8080/1805/1805/56467
+#EXTINF:0,PL: DISNEY JUNIOR
+http://iptvhdnew.com:8080/1805/1805/56456
+#EXTINF:0,PL: DISNEY XD
+http://iptvhdnew.com:8080/1805/1805/56457
+#EXTINF:0,PL: ELEVEN HD
+http://iptvhdnew.com:8080/1805/1805/56461
+#EXTINF:0,PL: ELEVEN SPORT HD
+http://iptvhdnew.com:8080/1805/1805/56470
+#EXTINF:0,PL: Eleven Sports 1 HD
+http://iptvhdnew.com:8080/1805/1805/56477
+#EXTINF:0,PL: FILMBOX ACTION HD
+http://iptvhdnew.com:8080/1805/1805/56478
+#EXTINF:0,PL: HBO 3 HD
+http://iptvhdnew.com:8080/1805/1805/56479
+#EXTINF:0,PL: HISTORY HD
+http://iptvhdnew.com:8080/1805/1805/56469
+#EXTINF:0,PL: KINO POLSKA
+http://iptvhdnew.com:8080/1805/1805/56455
+#EXTINF:0,PL: Kuchnia  HD
+http://iptvhdnew.com:8080/1805/1805/56480
+#EXTINF:0,PL: Nat Geo Wild HD
+http://iptvhdnew.com:8080/1805/1805/56472
+#EXTINF:0,PL: NSPORT PLUS
+http://iptvhdnew.com:8080/1805/1805/56458
+#EXTINF:0,PL: POLO TV
+http://iptvhdnew.com:8080/1805/1805/56483
+#EXTINF:0,PL: POLSAT 2 HD
+http://iptvhdnew.com:8080/1805/1805/56435
+#EXTINF:0,PL: POLSAT CAFE HD
+http://iptvhdnew.com:8080/1805/1805/56438
+#EXTINF:0,PL: POLSAT FHD
+http://iptvhdnew.com:8080/1805/1805/56434
+#EXTINF:0,PL: POLSAT FILM HD
+http://iptvhdnew.com:8080/1805/1805/56437
+#EXTINF:0,PL: POLSAT NEWS
+http://iptvhdnew.com:8080/1805/1805/56482
+#EXTINF:0,PL: POLSAT PLAY HD
+http://iptvhdnew.com:8080/1805/1805/56439
+#EXTINF:0,PL: POLSAT SPORT EXTRA
+http://iptvhdnew.com:8080/1805/1805/56473
+#EXTINF:0,PL: POLSAT SPORT FIGHT
+http://iptvhdnew.com:8080/1805/1805/56436
+#EXTINF:0,PL: Polsat Sport HD
+http://iptvhdnew.com:8080/1805/1805/56440
+#EXTINF:0,PL: PULS 2
+http://iptvhdnew.com:8080/1805/1805/56465
+#EXTINF:0,PL: SUPER POLSAT
+http://iptvhdnew.com:8080/1805/1805/56474
+#EXTINF:0,PL: TLC
+http://iptvhdnew.com:8080/1805/1805/56446
+#EXTINF:0,PL: TNT
+http://iptvhdnew.com:8080/1805/1805/56449
+#EXTINF:0,PL: TV 4 HD
+http://iptvhdnew.com:8080/1805/1805/56454
+#EXTINF:0,PL: TV Republika
+http://iptvhdnew.com:8080/1805/1805/56460
+#EXTINF:0,PL: TV4 HD
+http://iptvhdnew.com:8080/1805/1805/56485
+#EXTINF:0,PL: TVN
+http://iptvhdnew.com:8080/1805/1805/56447
+#EXTINF:0,PL: TVN 24
+http://iptvhdnew.com:8080/1805/1805/56451
+#EXTINF:0,PL: TVN 24 UHD
+http://iptvhdnew.com:8080/1805/1805/56448
+#EXTINF:0,PL: TVN 7 HD
+http://iptvhdnew.com:8080/1805/1805/56452
+#EXTINF:0,PL: TVN 7 UHD
+http://iptvhdnew.com:8080/1805/1805/56450
+#EXTINF:0,PL: TVN STYLE HD
+http://iptvhdnew.com:8080/1805/1805/56453
+#EXTINF:0,PL: TVP 1 FHD
+http://iptvhdnew.com:8080/1805/1805/56486
+#EXTINF:0,PL: TVP 1 HD
+http://iptvhdnew.com:8080/1805/1805/56445
+#EXTINF:0,PL: TVP 2 HD
+http://iptvhdnew.com:8080/1805/1805/56441
+#EXTINF:0,PL: TVP 3 Warszawa
+http://iptvhdnew.com:8080/1805/1805/56475
+#EXTINF:0,PL: TVP HD
+http://iptvhdnew.com:8080/1805/1805/56476
+#EXTINF:0,PL: TVP SERIALE
+http://iptvhdnew.com:8080/1805/1805/56444
+#EXTINF:0,PL: TVP Sport HD
+http://iptvhdnew.com:8080/1805/1805/56487
+#EXTINF:0,PL: TVP SPORT SD
+http://iptvhdnew.com:8080/1805/1805/56442
+#EXTINF:0,PL: VOX MUS?C
+http://iptvhdnew.com:8080/1805/1805/56481
