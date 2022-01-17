@@ -1,6 +1,118 @@
 #EXTM3U
+#EXT-X-TARGETDURATION:
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:1
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="POLAND",Disney Channel FHD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbIxL-627H3ZuZGqdB3MHNrD9wRj4b-wSG6oGp33Txyss/ts?checkedby:iptvcat.com
+
+#EXTINF:-1,PL: 13 ULICA
+http://iptvhdnew.com:8080/1805/1805/56484
+#EXTINF:-1,PL: ANIMAL PLANET
+http://iptvhdnew.com:8080/1805/1805/56459
+#EXTINF:-1,PL: AXN BLACK
+http://iptvhdnew.com:8080/1805/1805/56466
+#EXTINF:-1,PL: AXN White
+http://iptvhdnew.com:8080/1805/1805/56462
+#EXTINF:-1,PL: BOOMERANG
+http://iptvhdnew.com:8080/1805/1805/56463
+#EXTINF:-1,PL: CINEMAX 2
+http://iptvhdnew.com:8080/1805/1805/56471
+#EXTINF:-1,PL: COMEDY CENTRAL
+http://iptvhdnew.com:8080/1805/1805/56464
+#EXTINF:-1,PL: Comedy Central Family HD
+http://iptvhdnew.com:8080/1805/1805/56468
+#EXTINF:-1,PL: DISCOVERY CHANNEL
+http://iptvhdnew.com:8080/1805/1805/56467
+#EXTINF:-1,PL: DISNEY JUNIOR
+http://iptvhdnew.com:8080/1805/1805/56456
+#EXTINF:-1,PL: DISNEY XD
+http://iptvhdnew.com:8080/1805/1805/56457
+#EXTINF:-1,PL: ELEVEN HD
+http://iptvhdnew.com:8080/1805/1805/56461
+#EXTINF:-1,PL: ELEVEN SPORT HD
+http://iptvhdnew.com:8080/1805/1805/56470
+#EXTINF:-1,PL: Eleven Sports 1 HD
+http://iptvhdnew.com:8080/1805/1805/56477
+#EXTINF:-1,PL: FILMBOX ACTION HD
+http://iptvhdnew.com:8080/1805/1805/56478
+#EXTINF:-1,PL: HBO 3 HD
+http://iptvhdnew.com:8080/1805/1805/56479
+#EXTINF:-1,PL: HISTORY HD
+http://iptvhdnew.com:8080/1805/1805/56469
+#EXTINF:-1,PL: KINO POLSKA
+http://iptvhdnew.com:8080/1805/1805/56455
+#EXTINF:-1,PL: Kuchnia  HD
+http://iptvhdnew.com:8080/1805/1805/56480
+#EXTINF:-1,PL: Nat Geo Wild HD
+http://iptvhdnew.com:8080/1805/1805/56472
+#EXTINF:-1,PL: NSPORT PLUS
+http://iptvhdnew.com:8080/1805/1805/56458
+#EXTINF:-1,PL: POLO TV
+http://iptvhdnew.com:8080/1805/1805/56483
+#EXTINF:-1,PL: POLSAT 2 HD
+http://iptvhdnew.com:8080/1805/1805/56435
+#EXTINF:-1,PL: POLSAT CAFE HD
+http://iptvhdnew.com:8080/1805/1805/56438
+#EXTINF:-1,PL: POLSAT FHD
+http://iptvhdnew.com:8080/1805/1805/56434
+#EXTINF:-1,PL: POLSAT FILM HD
+http://iptvhdnew.com:8080/1805/1805/56437
+#EXTINF:-1,PL: POLSAT NEWS
+http://iptvhdnew.com:8080/1805/1805/56482
+#EXTINF:-1,PL: POLSAT PLAY HD
+http://iptvhdnew.com:8080/1805/1805/56439
+#EXTINF:-1,PL: POLSAT SPORT EXTRA
+http://iptvhdnew.com:8080/1805/1805/56473
+#EXTINF:-1,PL: POLSAT SPORT FIGHT
+http://iptvhdnew.com:8080/1805/1805/56436
+#EXTINF:-1,PL: Polsat Sport HD
+http://iptvhdnew.com:8080/1805/1805/56440
+#EXTINF:-1,PL: PULS 2
+http://iptvhdnew.com:8080/1805/1805/56465
+#EXTINF:-1,PL: SUPER POLSAT
+http://iptvhdnew.com:8080/1805/1805/56474
+#EXTINF:-1,PL: TLC
+http://iptvhdnew.com:8080/1805/1805/56446
+#EXTINF:-1,PL: TNT
+http://iptvhdnew.com:8080/1805/1805/56449
+#EXTINF:-1,PL: TV 4 HD
+http://iptvhdnew.com:8080/1805/1805/56454
+#EXTINF:-1,PL: TV Republika
+http://iptvhdnew.com:8080/1805/1805/56460
+#EXTINF:-1,PL: TV4 HD
+http://iptvhdnew.com:8080/1805/1805/56485
+#EXTINF:-1,PL: TVN
+http://iptvhdnew.com:8080/1805/1805/56447
+#EXTINF:-1,PL: TVN 24
+http://iptvhdnew.com:8080/1805/1805/56451
+#EXTINF:-1,PL: TVN 24 UHD
+http://iptvhdnew.com:8080/1805/1805/56448
+#EXTINF:-1,PL: TVN 7 HD
+http://iptvhdnew.com:8080/1805/1805/56452
+#EXTINF:-1,PL: TVN 7 UHD
+http://iptvhdnew.com:8080/1805/1805/56450
+#EXTINF:-1,PL: TVN STYLE HD
+http://iptvhdnew.com:8080/1805/1805/56453
+#EXTINF:-1,PL: TVP 1 FHD
+http://iptvhdnew.com:8080/1805/1805/56486
+#EXTINF:-1,PL: TVP 1 HD
+http://iptvhdnew.com:8080/1805/1805/56445
+#EXTINF:-1,PL: TVP 2 HD
+http://iptvhdnew.com:8080/1805/1805/56441
+#EXTINF:-1,PL: TVP 3 Warszawa
+http://iptvhdnew.com:8080/1805/1805/56475
+#EXTINF:-1,PL: TVP HD
+http://iptvhdnew.com:8080/1805/1805/56476
+#EXTINF:-1,PL: TVP SERIALE
+http://iptvhdnew.com:8080/1805/1805/56444
+#EXTINF:-1,PL: TVP Sport HD
+http://iptvhdnew.com:8080/1805/1805/56487
+#EXTINF:-1,PL: TVP SPORT SD
+http://iptvhdnew.com:8080/1805/1805/56442
+#EXTINF:-1,PL: VOX MUS?C
+http://iptvhdnew.com:8080/1805/1805/56481
 
 
 
